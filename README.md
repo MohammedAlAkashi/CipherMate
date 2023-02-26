@@ -27,4 +27,4 @@ CipherMate is a simple encryption/decryption program written in Python. It allow
 Please note that the encryption algorithm used by CipherMate is not secure and should not be used for sensitive data. This program is intended for educational and entertainment purposes only.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details
+This project is licensed under the [MIT License](https://github.com/Mohammed8339/CipherMate/blob/main/LICENSE) - see the LICENSE file for details
