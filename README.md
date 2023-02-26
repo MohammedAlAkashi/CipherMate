@@ -5,11 +5,11 @@ CipherMate is a simple encryption/decryption program written in Python. It allow
 
 ## Features
 
-*Custom encryption algorithm
+-Custom encryption algorithm
 
-*Easy to use command-line interface
+-Easy to use command-line interface
 
-*Choose the number of layers of encryption/decryption
+-Choose the number of layers of encryption/decryption
 
 
 ## Installation
