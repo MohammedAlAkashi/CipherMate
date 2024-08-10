@@ -12,7 +12,7 @@ CipherMate is a simple encryption/decryption program written in Python. It allow
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Mohammed8339/CipherMate.git
+1. Clone the repository: git clone https://github.com/MohammedAlAkashi/CipherMate.git
 2. Navigate to the project directory: cd CipherMate
 3. Run the program: python main.py
 
